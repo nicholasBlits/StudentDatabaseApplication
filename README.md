@@ -49,7 +49,7 @@ E-mail: nicholasblits05@yahoo.com
 
 LinkedIn: https://bit.ly/NBlitsLinkedIn 
 
-### Damian Marciniak - Primary Technical Engineer
+### Damian Marciniak - Project Debugger
 
 GitHub - https://bit.ly/DMarciniakGitHub
 

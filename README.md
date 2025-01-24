@@ -46,9 +46,11 @@ For any concerns, it is best to contact Nicholas S. Blits, as he is the person b
 ### Nicholas S. Blits - Head Developer
 
 E-mail: nicholasblits05@yahoo.com
+
 LinkedIn: https://bit.ly/NBlitsLinkedIn 
 
 ### Damian Marciniak - Technical Engineer
 
 GitHub - https://bit.ly/DMarciniakGitHub
+
 LinkedIn - https://bit.ly/DMarciniakLinkedIn
